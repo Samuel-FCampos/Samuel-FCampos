@@ -25,8 +25,16 @@
 
 ### 📊 GitHub Stats
 
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel-FCampos&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-FCampos&layout=compact&theme=dracula)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Samuel-FCampos&show_icons=true&theme=dracula" alt="Samuel's GitHub stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-FCampos&layout=compact&theme=dracula" alt="Top Langs"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
