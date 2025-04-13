@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi there 👋 I'm Samuel Campos!
 
-<!--
-**Samuel-FCampos/Samuel-FCampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇺🇸 Nascido nos Estados Unidos, atualmente vivendo em Belo Horizonte 🇧🇷  
+🎓 Estudante de Ciência da Computação na **PUC Minas**  
+💻 Desenvolvedor focado em **Golang**, **HTML/CSS**, **Flutter** e **Docker**  
+☁️ Explorando tecnologias como **AWS**, **Azure**, **MySQL** e **Terraform**  
+♟️ Jogador amador de xadrez — **ELO 1300** no Chess.com  
+🌐 Confira meu portfólio: [https://samuel-fcampos.github.io/Portifolio-English/#](https://samuel-fcampos.github.io/Portifolio-English/#)  
+📫 Entre em contato: **samuelfcampos2410@gmail.com**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologias e Ferramentas
+
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
+![Terraform](https://img.shields.io/badge/-Terraform-844FBA?style=flat&logo=terraform)
+
+---
+
+### 📊 GitHub Stats
+
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel-FCampos&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-FCampos&layout=compact&theme=dracula)
+
+---
+
+### ✨ Fun fact
+
+> "Code is poetry. And sometimes, debugging is deciphering ancient runes." 🔍
