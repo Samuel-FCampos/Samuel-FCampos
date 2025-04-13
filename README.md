@@ -38,6 +38,4 @@
 
 ---
 
-### ✨ Fun fact
-
-> "Code is poetry. And sometimes, debugging is deciphering ancient runes." 🔍
+> "Vi veri veniversum vivus vici" 🔍
