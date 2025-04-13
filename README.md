@@ -28,10 +28,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Samuel-FCampos&show_icons=true&theme=dracula" alt="Samuel's GitHub stats"/>
+      <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=Samuel-FCampos&show_icons=true&theme=dracula" alt="Samuel's GitHub stats"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-FCampos&layout=compact&theme=dracula" alt="Top Langs"/>
+      <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-FCampos&layout=compact&theme=dracula" alt="Top Langs"/>
     </td>
   </tr>
 </table>
